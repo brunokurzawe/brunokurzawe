@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Bruno Kurzawe</h2>
+<h2>Hey, I'm Bruno Kurzawe</h2>
 
 <br />
 <h3>Get In Touch at <a href="mailto:bruno.kurzawe@gmail.com">bruno.kurzawe@gmail.com</a></h3>
