@@ -3,7 +3,7 @@
 <br />
 <h3>Get In Touch at <a href="mailto:bruno.kurzawe@gmail.com">bruno.kurzawe@gmail.com</a></h3>
 
-<h3>I'm currently working on&nbsp;&nbsp;&nbsp;<a href="https://www.betha.com.br/"><b>Betha Sistemas</b></a>&nbsp;&nbsp;&nbsp;</h3>
+<h3>I'm currently working on&nbsp;&nbsp;<a href="https://www.betha.com.br/"><b>Betha Sistemas</b></a>&nbsp;&nbsp;&nbsp;</h3>
 
 <br />
 <h2 align="center"> Social Media </h2>
